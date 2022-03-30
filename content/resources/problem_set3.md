@@ -5,6 +5,7 @@ description: This resource contains five problems from the course notes (problem
   space V, C has continuous partial derivatives.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-155-differential-analysis-fall-2004/030156a49f6bca89bae7be1a8e48f7af_problem_set3.pdf
 file_type: application/pdf
+parent_uid: 3292dd42-2aab-251e-f6d7-6bfb08cb2cd9
 resourcetype: Document
 title: problem_set3.pdf
 uid: 030156a4-9f6b-ca89-bae7-be1a8e48f7af

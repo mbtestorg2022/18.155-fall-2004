@@ -9,6 +9,7 @@ description: 'This resource includes lecture discourse on application of what we
   lemmas and proofs.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-155-differential-analysis-fall-2004/8948cbe270126e29997de01728d53d31_section11.pdf
 file_type: application/pdf
+parent_uid: 9d37afe0-3ee3-daa4-8c60-c9c4883b90d4
 resourcetype: Document
 title: section11.pdf
 uid: 8948cbe2-7012-6e29-997d-e01728d53d31

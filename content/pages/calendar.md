@@ -257,7 +257,7 @@ The Distributions xz±, z ∈ C\\(-N)
 
 Distributions Supported at 0
 
-Homogeneous Distributions of Order ![Homogeneous distributions.](/courses/mathematics/18-155-differential-analysis-fall-2004/calendar/homo_dis.jpg) on the Line
+Homogeneous Distributions of Order {{< resource "aea17331-160e-b165-03a9-44043f858338" >}} on the Line
 
 Hadamard Regularization
 

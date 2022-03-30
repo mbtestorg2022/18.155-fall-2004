@@ -7,6 +7,7 @@ description: This resource contains 6 problems (1-5 and 11) from the course note
   for any Borel measure.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-155-differential-analysis-fall-2004/13f2b5affa1737eb892cb2bbe59e9744_problem_set1.pdf
 file_type: application/pdf
+parent_uid: 3292dd42-2aab-251e-f6d7-6bfb08cb2cd9
 resourcetype: Document
 title: problem_set1.pdf
 uid: 13f2b5af-fa17-37eb-892c-b2bbe59e9744

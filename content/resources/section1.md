@@ -6,6 +6,7 @@ description: This resource includes lecture discourse on metric space, what the 
   between these notions and  related propositions, and lemmas.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-155-differential-analysis-fall-2004/e06a3352309b1de0ca1de2ee239afd31_section1.pdf
 file_type: application/pdf
+parent_uid: 9d37afe0-3ee3-daa4-8c60-c9c4883b90d4
 resourcetype: Document
 title: section1.pdf
 uid: e06a3352-309b-1de0-ca1d-e2ee239afd31

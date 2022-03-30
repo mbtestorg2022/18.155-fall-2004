@@ -5,6 +5,7 @@ description: This resource contains lecture discourse on the mu-integral of a no
   theorems, prpopositions and proofs.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-155-differential-analysis-fall-2004/853e4fe291ccddca2d426a75d4e91abd_section4.pdf
 file_type: application/pdf
+parent_uid: 9d37afe0-3ee3-daa4-8c60-c9c4883b90d4
 resourcetype: Document
 title: section4.pdf
 uid: 853e4fe2-91cc-ddca-2d42-6a75d4e91abd

@@ -4,6 +4,7 @@ description: This resource contains five problems (39, 42, 50, 63 and 65) from t
   course notes.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-155-differential-analysis-fall-2004/9198071e620dd37ee08a964b9c538b8b_problem_set6.pdf
 file_type: application/pdf
+parent_uid: 3292dd42-2aab-251e-f6d7-6bfb08cb2cd9
 resourcetype: Document
 title: problem_set6.pdf
 uid: 9198071e-620d-d37e-e08a-964b9c538b8b
